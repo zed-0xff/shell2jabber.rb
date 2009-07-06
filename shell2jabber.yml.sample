@@ -1,0 +1,8 @@
+jid:    pc001@some-jabber-server.tld
+pass:   SuPerSecRet
+allow:  
+- me@some-jabber-server.tld
+- my@another-jabber-server.tld
+#show:   true
+auto_add: true
+auto_register: true
